@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/21651eb6-64d3-49e7-9add-8e8d4ca4d199/resourceGroups/ArvydasAzureWebApp/providers/Microsoft.Web/sites/ArvydasAzureWebApp"
+}
